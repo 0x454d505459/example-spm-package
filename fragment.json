@@ -8,7 +8,7 @@
     "version":"vNone","entry-file":"src/main.sw"
   },
   "dependencies":{
-    "requires":[""],
-    "conflics":[""]
+    "requires":["some-fragment"],
+    "conflics":["other-fragment"]
   }
 }
